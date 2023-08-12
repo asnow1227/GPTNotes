@@ -1,0 +1,6 @@
+*.pyc
+*.json
+Outputs/*
+*.pptx
+gptprimer.ipynb
+.ipynb_checkpoints
